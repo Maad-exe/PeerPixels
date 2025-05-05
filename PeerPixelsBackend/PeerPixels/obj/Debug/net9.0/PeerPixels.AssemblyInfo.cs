@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PeerPixels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54bddc919678eb1ccde884d17efd9228218d5c2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PeerPixels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PeerPixels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
