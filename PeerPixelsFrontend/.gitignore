@@ -43,3 +43,6 @@ Thumbs.db
 
 # Envrioment variables
 /envrioments
+.envrioments
+.envrioments.ts
+.envrioments.prod.ts
