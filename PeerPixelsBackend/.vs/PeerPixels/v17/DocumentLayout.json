@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "F:\\PeerPixels\\PeerPixelsBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|f:\\peerpixels\\peerpixelsbackend\\peerpixels\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|solutionrelative:peerpixels\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|f:\\peerpixels\\peerpixelsbackend\\peerpixels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|solutionrelative:peerpixels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|f:\\peerpixels\\peerpixelsbackend\\peerpixels\\infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|solutionrelative:peerpixels\\infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|f:\\peerpixels\\peerpixelsbackend\\peerpixels\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|solutionrelative:peerpixels\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,14 +59,6 @@
       "RelativeMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|solutionrelative:peerpixels\\core\\entities\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|f:\\peerpixels\\peerpixelsbackend\\peerpixels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|solutionrelative:peerpixels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|f:\\peerpixels\\peerpixelsbackend\\peerpixels\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|solutionrelative:peerpixels\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|f:\\peerpixels\\peerpixelsbackend\\peerpixels\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|solutionrelative:peerpixels\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -77,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|f:\\peerpixels\\peerpixelsbackend\\peerpixels\\infrastructure\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|solutionrelative:peerpixels\\infrastructure\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|f:\\peerpixels\\peerpixelsbackend\\peerpixels\\infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|solutionrelative:peerpixels\\infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7E06D4B-D459-42AA-A22F-45A9B006576A}|PeerPixels\\PeerPixels.csproj|f:\\peerpixels\\peerpixelsbackend\\peerpixels\\infrastructure\\services\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -162,23 +162,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FollowConfiguration.cs",
-              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Data\\Configuration\\FollowConfiguration.cs",
-              "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Data\\Configuration\\FollowConfiguration.cs",
-              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Data\\Configuration\\FollowConfiguration.cs",
-              "RelativeToolTip": "PeerPixels\\Infrastructure\\Data\\Configuration\\FollowConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T16:19:36.207Z"
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "PeerPixels\\Core\\Entities\\User.cs",
+              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Core\\Entities\\User.cs",
+              "RelativeToolTip": "PeerPixels\\Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvy8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:07:51.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "PeerPixels\\Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAewDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:22:49.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\.env",
+              "RelativeDocumentMoniker": "PeerPixels\\.env",
+              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\.env",
+              "RelativeToolTip": "PeerPixels\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T13:30:26.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Program.cs",
+              "RelativeDocumentMoniker": "PeerPixels\\Program.cs",
+              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Program.cs",
+              "RelativeToolTip": "PeerPixels\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:25:21.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Follow.cs",
               "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Core\\Entities\\Follow.cs",
               "RelativeDocumentMoniker": "PeerPixels\\Core\\Entities\\Follow.cs",
@@ -190,49 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Core\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "PeerPixels\\Core\\Entities\\User.cs",
-              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Core\\Entities\\User.cs",
-              "RelativeToolTip": "PeerPixels\\Core\\Entities\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvy8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T11:07:51.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "PeerPixels\\Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwDwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T11:18:38.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PostConfiguration.cs",
-              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Data\\Configuration\\PostConfiguration.cs",
-              "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Data\\Configuration\\PostConfiguration.cs",
-              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Data\\Configuration\\PostConfiguration.cs",
-              "RelativeToolTip": "PeerPixels\\Infrastructure\\Data\\Configuration\\PostConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T16:19:37.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "PeerPixels\\Controllers\\UserController.cs",
@@ -245,7 +250,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "PostConfiguration.cs",
+              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Data\\Configuration\\PostConfiguration.cs",
+              "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Data\\Configuration\\PostConfiguration.cs",
+              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Data\\Configuration\\PostConfiguration.cs",
+              "RelativeToolTip": "PeerPixels\\Infrastructure\\Data\\Configuration\\PostConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:19:37.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PeerPixels\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:18:38.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FollowConfiguration.cs",
+              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Data\\Configuration\\FollowConfiguration.cs",
+              "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Data\\Configuration\\FollowConfiguration.cs",
+              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Data\\Configuration\\FollowConfiguration.cs",
+              "RelativeToolTip": "PeerPixels\\Infrastructure\\Data\\Configuration\\FollowConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:19:36.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Data\\Configuration\\UserConfiguration.cs",
@@ -257,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\UnitOfWork\\Contracts\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\UnitOfWork\\Contracts\\IUnitOfWork.cs",
@@ -265,12 +307,11 @@
               "RelativeToolTip": "PeerPixels\\Infrastructure\\UnitOfWork\\Contracts\\IUnitOfWork.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T11:15:49.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T11:15:49.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Repositories\\BaseRepository.cs",
@@ -278,11 +319,12 @@
               "RelativeToolTip": "PeerPixels\\Infrastructure\\Repositories\\BaseRepository.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAgwEAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T11:19:20.217Z"
+              "WhenOpened": "2025-05-05T11:19:20.217Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "FollowRepository.cs",
               "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Repositories\\FollowRepository.cs",
               "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Repositories\\FollowRepository.cs",
@@ -290,11 +332,12 @@
               "RelativeToolTip": "PeerPixels\\Infrastructure\\Repositories\\FollowRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T11:20:24.539Z"
+              "WhenOpened": "2025-05-05T11:20:24.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Repositories\\UserRepository.cs",
@@ -302,11 +345,12 @@
               "RelativeToolTip": "PeerPixels\\Infrastructure\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAAwHIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T11:19:44.813Z"
+              "WhenOpened": "2025-05-05T11:19:44.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "PostRepository.cs",
               "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Repositories\\PostRepository.cs",
               "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Repositories\\PostRepository.cs",
@@ -318,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "FollowService.cs",
               "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Services\\FollowService.cs",
               "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Services\\FollowService.cs",
@@ -330,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "UserService.cs",
               "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Services\\UserService.cs",
@@ -342,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\appsettings.json",
               "RelativeDocumentMoniker": "PeerPixels\\appsettings.json",
@@ -354,32 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Program.cs",
-              "RelativeDocumentMoniker": "PeerPixels\\Program.cs",
-              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Program.cs",
-              "RelativeToolTip": "PeerPixels\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T11:25:21.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": ".env",
-              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\.env",
-              "RelativeDocumentMoniker": "PeerPixels\\.env",
-              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\.env",
-              "RelativeToolTip": "PeerPixels\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-05T13:30:26.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
@@ -392,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "PostService.cs",
               "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Services\\PostService.cs",
               "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Services\\PostService.cs",
@@ -400,19 +419,8 @@
               "RelativeToolTip": "PeerPixels\\Infrastructure\\Services\\PostService.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAAAAwIMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T11:21:51.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "PeerPixels\\Infrastructure\\Services\\AuthService.cs",
-              "ToolTip": "F:\\PeerPixels\\PeerPixelsBackend\\PeerPixels\\Infrastructure\\Services\\AuthService.cs",
-              "RelativeToolTip": "PeerPixels\\Infrastructure\\Services\\AuthService.cs",
-              "ViewState": "AgIAAPkAAAAAAAAAAAAAwBUBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T11:22:49.728Z"
+              "WhenOpened": "2025-05-05T11:21:51.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -593,8 +601,7 @@
               "RelativeToolTip": "PeerPixels\\Controllers\\PostController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T11:24:18.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T11:24:18.109Z"
             },
             {
               "$type": "Document",
@@ -632,10 +639,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-05T12:07:31.591Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

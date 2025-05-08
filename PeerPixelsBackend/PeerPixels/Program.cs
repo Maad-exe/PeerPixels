@@ -15,6 +15,7 @@ using PeerPixels.Infrastructure.UnitOfWork.Contracts;
 using System.Text;
 using PeerPixels;
 using dotenv.net;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
 
 
@@ -36,6 +37,7 @@ builder.Services.AddEndpointsApiExplorer();
 
 // Configure Entity Framework
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+Console.WriteLine($"Connection String: {connectionString}");
 if (string.IsNullOrEmpty(connectionString))
 {
     throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
